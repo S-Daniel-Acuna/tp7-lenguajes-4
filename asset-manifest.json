@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tp7-lenguajes-4/static/css/main.17fc6be7.css",
+    "main.js": "/tp7-lenguajes-4/static/js/main.6503c754.js",
+    "index.html": "/tp7-lenguajes-4/index.html",
+    "main.17fc6be7.css.map": "/tp7-lenguajes-4/static/css/main.17fc6be7.css.map",
+    "main.6503c754.js.map": "/tp7-lenguajes-4/static/js/main.6503c754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17fc6be7.css",
+    "static/js/main.6503c754.js"
+  ]
+}
